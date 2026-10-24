@@ -186,6 +186,9 @@ GitHub 项目按 Star 降序排列。
 - [Diffusion Studio](https://diffusion.studio/) — 面向人和编程 Agent 的开源剪辑器：浏览器可直接剪，桌面端用 dapi 看片、改时间线并导出。
 - [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
 - [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
+- [Alors On Danse Video Maker](https://alorsondansevideo.com/) — 独立 AI 双人舞视频工具：两张照片 → 约 13 秒棚拍双人舞成片（Paid，非官方，与 Stromae/TikTok 无关）。
+- [Bad Times AI](https://badtimesai.dev/) — 独立 AI 舞蹈特效：一张照片 → 约 14–15 秒竖屏舞蹈特效视频（Paid from $7.99）。
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com/) — 独立 AI 场景特效：两张照片 → 阳台/聚光灯相遇场景视频（Paid from $7.99）。
 
 ## 云厂商智能剪辑 / 高光拆条
 
