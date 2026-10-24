@@ -189,6 +189,9 @@ GitHub 项目按 Star 降序排列。
 - [Alors On Danse Video Maker](https://alorsondansevideo.com/) — 独立 AI 双人舞视频工具：两张照片 → 约 13 秒棚拍双人舞成片（Paid，非官方，与 Stromae/TikTok 无关）。
 - [Bad Times AI](https://badtimesai.dev/) — 独立 AI 舞蹈特效：一张照片 → 约 14–15 秒竖屏舞蹈特效视频（Paid from $7.99）。
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com/) — 独立 AI 场景特效：两张照片 → 阳台/聚光灯相遇场景视频（Paid from $7.99）。
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev/) — 独立非官方 AI 独舞工具：一张照片 → 约 13 秒 480p 21:9 独舞视频（Paid from $7.99；不隶属 Riot Games / K/DA）。
+- [A2O LITE NEON AI Dance](https://a2oliteai.org/) — 独立 AI 双人霓虹舞工具：两张照片 → 约 15 秒 480p 16:9 双人舞成片（含参考音轨；Paid from $7.99；非官方）。
+- [dime dime baby ai](https://dimedimebabyai.dev/) — 独立 AI 竖屏舞特效：一张照片 → 约 5 秒 480p 9:16 舞蹈视频（Quince Classic / Party Groove；Paid from $7.99）。
 
 ## 云厂商智能剪辑 / 高光拆条
 
